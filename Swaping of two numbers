@@ -1,0 +1,31 @@
+ #include <iostream>
+
+using namespace std;
+int main()
+
+(
+
+int num1, num2, temp;
+
+cout << "Enter Number 1"<<endl;
+
+cin >> num1;
+
+cout<<"Enter Number 2"<<endl;
+
+cin >> num2;
+
+I
+
+cout << "Before swapping numl= "<<numl<<" num2 = "<<num2<<endl;
+
+temp num1;
+
+numl num2;
+
+num2= temp;
+
+cout << "After swapping num1 = "<<numl<<" num2 = "<<num2<<endl;
+
+return 0;
+}
